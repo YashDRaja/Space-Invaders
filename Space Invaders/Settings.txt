@@ -1,0 +1,14 @@
+Screensize: 1024 576
+Name: Default
+Music: Off
+FPs: 60
+MLeft: Left 276
+MRight: Right 275
+Shoot: Space 32
+Shoot2: Down 274
+Pt10: i 105
+Pt20: o 111
+Pt40: p 112
+Barriers: 4
+MaxLives: 4
+MinLives: 3
